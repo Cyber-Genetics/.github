@@ -1,6 +1,5 @@
 # Cyber Genetics - Unleashing Tech Enthusiasm! 🚀
 
-![Cyber Genetics Banner](https://raw.githubusercontent.com/Cyber-Genetics/Cyber-Genetics/main/assets/banner.png)
 
 ## Hey Tech Enthusiasts! 👋
 
